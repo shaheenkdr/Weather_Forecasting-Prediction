@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/MySQL/MySQL Connector J/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-7/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/opencsv-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/pdm-timeseriesforecasting-ce-TRUNK-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/weka-dev-3.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/jcommon-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/enter/Downloads/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/untitled folder/workspace/forecasting/timeseriesforecasting-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/dataeclipse/jar file/opencsv-3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
